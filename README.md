@@ -1,4 +1,4 @@
-# E-Commerce Web Application (Frontend)
+# E-Commerce Web Application (Frontend) .
 
 This is the **React + TypeScript** frontend for the E-Commerce platform. It connects to the backend API, provides a fully functional UI for users and admins, and includes features like authentication, product browsing, cart/checkout flow, order management, and dashboard analytics.
 
